@@ -1,18 +1,52 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Trilha Sonora para seu estudo",
+      "link": "https://www.youtube.com/watch?v=A9hcJgtnm6Q",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "só musica pra estudar empolgado",
+        "url": "https://www.youtube.com/watch?v=A9hcJgtnm6Q"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O que faz uma desenvolvedora front-end?",
+          "url": "https://www.youtube.com/watch?v=i9lQKN8GSs4"
         },
+        {
+          "titulo": "The Black Keys - Lonely Boy",
+          "url": "https://www.youtube.com/watch?v=a_426RiwST8"
+        },
+        {
+          "titulo": "Gorillaz - DARE",
+          "url": "https://www.youtube.com/watch?v=uAOR6ib95kQ"
+        },
+        {
+          "titulo": "Miley Cyrus - Mother's Daughtert",
+          "url": "https://www.youtube.com/watch?v=7T2RonyJ_Ts"
+        },
+        {
+          "titulo": "Portugal. The Man - Feel It Still",
+          "url": "https://www.youtube.com/watch?v=pBkHHoOIIn8"
+        },
+        {
+          "titulo": "Electric Guest - American Daydream",
+          "url": "https://www.youtube.com/watch?v=yEFAQg3vPr8"
+        },
+        {
+          "titulo": "Harry Styles - Adore You",
+          "url": "https://www.youtube.com/watch?v=VF-r5TtlT9w"
+        },
+        {
+          "titulo": "Tame Impala - The Less I Know The Better",
+          "url": "https://www.youtube.com/watch?v=sBzrzS1Ag_g"
+        }        
+      ]
+    },
+    {
+      "titulo": "Front-end",
+      "cor": "orange",
+      "videos": [
         {
           "titulo": "SEO com React",
           "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
@@ -100,54 +134,32 @@
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
+      "titulo": "Hobbie - Plantinhas",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Varias diquinhas para cuidar das plantinhas",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Não bate sol no jardim? Estas plantas de sombra são PERFEITAS!",
+          "url": "https://www.youtube.com/watch?v=4ZgCXWRACEA"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "As MELHORES PLANTAS pra HORTA",
+          "url": "https://www.youtube.com/watch?v=O97NfWn9L-Q"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "DICAS PARA MONTAR UMA MINI HORTA EM CASA",
+          "url": "https://www.youtube.com/watch?v=hevTtqIFVC4"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "O maior ERRO de plantar cebolinha em casa!!!",
+          "url": "https://www.youtube.com/watch?v=dOQpabXy5sQ"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "ADUBO CASEIRO fácil de fazer: receita pra TODAS as plantas",
+          "url": "https://www.youtube.com/watch?v=YnZIK3pBQps&t=286s"
         }
       ]
     },
