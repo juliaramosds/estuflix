@@ -29,7 +29,9 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL_CAT = 'http://localhost:8080/categorias';
+    const URL_CAT = window.location.hostname.includes('localhost')
+      ? 'http://localhost:3000/categorias'
+      : 'https://estuflix.herokuapp.com/categorias';
 
     fetch(URL_CAT)
       .then(async (respostaDoServidor) => {
